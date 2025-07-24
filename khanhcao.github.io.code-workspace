@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "DepressionPrediction",
+			"path": "../DepressionPrediction"
+		}
+	],
+	"settings": {}
+}
